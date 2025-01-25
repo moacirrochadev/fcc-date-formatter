@@ -10,4 +10,4 @@ This project will cover concepts such as the:
 
 ## Preview Project
 
-<img src="./assets/formatter-preview.png" style="margin: 0 auto">
+<img src="./assets/formatter-preview.png" style="text-align: center">
